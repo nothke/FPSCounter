@@ -1,0 +1,9 @@
+{
+  "name": "nothke.fpscounter",
+  "displayName": "Simple FPS Counter",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "description": "Simple, non-alloc FPS counter",
+  "dependencies": {},
+  "type": "library"
+}
